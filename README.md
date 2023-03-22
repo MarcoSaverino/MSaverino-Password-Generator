@@ -26,8 +26,7 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 ## SCREENSHOT WITH LINK TO PAGE PREVIEW
-[![Screenshot] (./assets/images/Password-GeneratorApp-Screenshot.PNG)](https://marcosaverino.github.io/MSaverino-Challenge-2/)
-
+[![Screenshot](./assets/images/Password-GeneratorApp-Screenshot.PNG)](https://marcosaverino.github.io/MSaverino-Password-Generator/)
 ## LINKS 
 PAGE PREVIEW: 
 https://marcosaverino.github.io/MSaverino-Password-Generator/
